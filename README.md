@@ -1,5 +1,6 @@
 ## 🗃 Boas-vindas ao meu repositório! 🗃
 
+<div style="display: inline_block">
 <a href="https://github.com/myke159/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=myke159&rank_icon=github&show_icons=true&title_color=00ffd1&icon_color=00ffd1&text_color=e8e8e8&bg_color=151515" />
 </a>
@@ -7,6 +8,7 @@
 <a href="https://github.com/myke159/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myke159&layout=compact&langs_count=8&card_width=320&show_icons=true&title_color=00ffd1&icon_color=00ffd1&text_color=e8e8e8&bg_color=151515" />
 </a>
+</div>
 <br>
 
 <h3>💻 Linguagens já utilizadas </h3>
