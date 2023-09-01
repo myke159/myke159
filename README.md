@@ -15,6 +15,13 @@
 </div>
 <br>
 
+<h3>☁️ Servidor em nuvem </h3>
+<div style="display: inline_block">
+  <img align="center" alt="Icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Icone-Python" height="30" width="40" src="https://unpkg.com/simple-icons@v9/icons/[ICON SLUG].svg">
+</div>
+<br>
+
 <h3>💻 Linguagens já utilizadas </h3>
 <div style="display: inline_block">
   <img align="center" alt="Icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
