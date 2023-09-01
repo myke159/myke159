@@ -18,7 +18,7 @@
 <h3>⚙️ Sistema Operacional </h3>
 <div style="display: inline_block">
   <img align="center" alt="Icone-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Icone-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original-wordmark.svg">
+  <img align="center" alt="Icone-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
 <br>
 
