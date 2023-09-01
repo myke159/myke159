@@ -9,7 +9,7 @@
 </a>
 <br>
 
-<h3>💻 Servidor em nuvem </h3>
+<h3>☁️ Servidor em nuvem </h3>
 <div style="display: inline_block">
   <img align="center" alt="Icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
