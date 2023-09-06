@@ -9,18 +9,18 @@
 </a>
 <br>
 
+<h3>⚙️ Sistema Operacional </h3>
+<div style="display: inline_block">
+  <img align="center" alt="Icone-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Icone-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+</div>
+<br>
+
 <h3>☁️ Cloud e Servidor web </h3>
 <div style="display: inline_block">
   <img align="center" alt="Icone-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Icone-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="Icone-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-</div>
-<br>
-
-<h3>⚙️ Sistema Operacional </h3>
-<div style="display: inline_block">
-  <img align="center" alt="Icone-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Icone-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
 <br>
 
