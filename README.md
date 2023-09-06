@@ -9,9 +9,10 @@
 </a>
 <br>
 
-<h3>☁️ Servidor em nuvem </h3>
+<h3>☁️ Cloud e Servidor web </h3>
 <div style="display: inline_block">
   <img align="center" alt="Icone-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Icone-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache2/apache2-original.svg">
 </div>
 <br>
 
