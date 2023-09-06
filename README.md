@@ -39,7 +39,7 @@
 <h3>📞 Formas de contato</h3>
 <div> 
   <a href="https://instagram.com/myke.lls" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:myke676@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:myke676@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%F4B400?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/myke-bueno-7bb961226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5516997200984" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
