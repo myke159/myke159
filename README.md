@@ -13,6 +13,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Icone-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Icone-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Icone-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 </div>
 <br>
 
