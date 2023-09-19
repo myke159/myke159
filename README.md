@@ -45,4 +45,4 @@
 </div>
 
 ## 👉🏼 Um pouco sobre mim 
-<p>Olá, me chamo Myke, sou desenvolvedor de sistemas a pouco mais de dois anos, atualmente estou estudando para me tornar um dev full stack e desenvolver uma boa base para trabalhar com computação em nuvem.</p>
+<p>Olá, me chamo Myke. Sou desenvolvedor de sistemas há pouco mais de dois anos. Atualmente, estou estudando para me tornar um dev full stack e desenvolver uma boa base para trabalhar com computação em nuvem e servidores.</p>
